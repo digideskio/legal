@@ -141,7 +141,7 @@
 
 <li>give any false information in your account details;</li>
 
-<li>give false information in a Forum User’s account;</li>
+<li>give false information in a Forum User's account;</li>
 
 <li>permit a person to use your Account who has not been authorised by you to do so;</li>
 
@@ -153,7 +153,7 @@
 
 <li>modify, interfere, intercept, disrupt or hack the Service;</li>
 
-<li>misuse the Service by knowingly introducing viruses, Trojans, worms, logic bombs or other similar material or by undertaking any other action which would harm the Service or any Service user’s equipment or have a detrimental impact on any user’s experience of using the Service;</li>
+<li>misuse the Service by knowingly introducing viruses, Trojans, worms, logic bombs or other similar material or by undertaking any other action which would harm the Service or any Service user's equipment or have a detrimental impact on any user's experience of using the Service;</li>
 
 <li>collect any data from the Service other than in accordance with these Terms of Service;</li>
 
@@ -251,7 +251,7 @@ issuing of a warning to you;</li>
 
 <li>carry out all your responsibilities and obligations in a timely and efficient manner. In the event of any delays in the provision of such assistance or performance of any obligations as agreed by the parties, we may adjust any agreed timetable or delivery schedule as reasonably necessary;</li>
 
-<li>ensure that the Administrator and Forum Users use the Services in accordance with the terms and conditions of this Agreement and shall be responsible for any Administrator or Forum User’s actions and omissions in connection with their use of the Service;</li>
+<li>ensure that the Administrator and Forum Users use the Services in accordance with the terms and conditions of this Agreement and shall be responsible for any Administrator or Forum User's actions and omissions in connection with their use of the Service;</li>
 
 <li>obtain and shall maintain all necessary licences, consents, and permissions necessary for us or our contractors and agents to perform their obligations under this Agreement including without limitation the Services;</li>
 
@@ -300,7 +300,7 @@ issuing of a warning to you;</li>
 <li>are exclusive of value added tax (if applicable) unless otherwise expressly stated which shall be paid at the same time as payment of the Fees. We shall send you a VAT invoice if you request us to do so.</li>
 </ol>
 
-<p id="13.6">13.6. Unless we agree otherwise in writing, we may increase the Fees upon 30 days’ notice in writing to you. Any increase in the Fees will not take effect until the end of your current Subscription Period. If you are unhappy with the increase, you may terminate this Agreement under clause 4.2.</p>
+<p id="13.6">13.6. Unless we agree otherwise in writing, we may increase the Fees upon 30 days' notice in writing to you. Any increase in the Fees will not take effect until the end of your current Subscription Period. If you are unhappy with the increase, you may terminate this Agreement under clause 4.2.</p>
 
 <h3 id="14">14. Proprietary rights</h3>
 
@@ -308,12 +308,12 @@ issuing of a warning to you;</li>
 
 <h3 id="15">15 Confidentiality</h3>
 
-<p id="15.1">15.1. Each party may be given access to Confidential Information from the other party in order to perform its obligations under these terms and conditions. A party’s Confidential Information shall not be deemed to include information that:</p>
+<p id="15.1">15.1. Each party may be given access to Confidential Information from the other party in order to perform its obligations under these terms and conditions. A party's Confidential Information shall not be deemed to include information that:</p>
 
 <ol type="a">
 <li>is or becomes publicly known other than through any act or omission of the receiving party;</li>
 
-<li>was in the other party’s lawful possession before the disclosure;</li>
+<li>was in the other party's lawful possession before the disclosure;</li>
 
 <li>is lawfully disclosed to the receiving party by a third party without restriction on disclosure;</li>
 
@@ -322,9 +322,9 @@ issuing of a warning to you;</li>
 <li>is required to be disclosed by law, by any court of competent jurisdiction or by any regulatory or administrative body.</li>
 </ol>
 
-<p id="15.2">15.2. Each party shall hold the other’s Confidential Information in confidence and, unless required by law, not make the other’s Confidential Information available for use for any purpose other than as needed to perform this Agreement.</p>
+<p id="15.2">15.2. Each party shall hold the other's Confidential Information in confidence and, unless required by law, not make the other's Confidential Information available for use for any purpose other than as needed to perform this Agreement.</p>
 
-<p id="15.3">15.3. Each party shall take all reasonable steps to ensure that the other’s Confidential Information to which it has access is not disclosed or distributed by its employees or agents in violation of these terms and conditions.</p>
+<p id="15.3">15.3. Each party shall take all reasonable steps to ensure that the other's Confidential Information to which it has access is not disclosed or distributed by its employees or agents in violation of these terms and conditions.</p>
 
 <p id="15.4">15.4. Each party shall take a back-up of its own Confidential Information and shall not be responsible to the other for any loss, destruction, alteration or disclosure of Confidential Information.</p>
 
@@ -429,7 +429,7 @@ issuing of a warning to you;</li>
 
 <h3 id="24">24. Amendments</h3>
 
-<p>We may amend this Agreement at any time. We will post a copy of the amended Terms of Service to our website <a href="http://microco.sm">http://microco.sm</a>. Your continued use of the Service after this Agreement has been amended will be considered as your acceptance of the amended Agreement. We will notify you of any material changes to this Agreement and give you at least 30 days’ notice.</p>
+<p>We may amend this Agreement at any time. We will post a copy of the amended Terms of Service to our website <a href="http://microco.sm">http://microco.sm</a>. Your continued use of the Service after this Agreement has been amended will be considered as your acceptance of the amended Agreement. We will notify you of any material changes to this Agreement and give you at least 30 days' notice.</p>
 
 <h3 id="25">25. Assignment</h3>
 

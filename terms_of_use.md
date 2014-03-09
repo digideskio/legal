@@ -61,7 +61,7 @@
 
 <dd>give any false information in your account details;</dd>
 
-<dd>take another person’s identity without that person’s permission or misrepresent you are acting on behalf of a person, entity or organisation;</dd>
+<dd>take another person's identity without that person's permission or misrepresent you are acting on behalf of a person, entity or organisation;</dd>
 
 <dd>use the forum if we have suspended or banned you from using it;</dd>
 
@@ -71,7 +71,7 @@
 
 <dd>modify, interfere, intercept, disrupt or hack the forum;</dd>
 
-<dd>misuse the forum by knowingly introducing viruses, Trojans, worms, logic bombs or other similar material or by undertaking any other action which would harm the forum, any forum user’s equipment or have a detrimental impact on any forum user’s experience of using the forum;</dd>
+<dd>misuse the forum by knowingly introducing viruses, Trojans, worms, logic bombs or other similar material or by undertaking any other action which would harm the forum, any forum user's equipment or have a detrimental impact on any forum user's experience of using the forum;</dd>
 
 <dd>collect any data from the forum other than in accordance with these Terms of Use;</dd> 
 
@@ -137,7 +137,7 @@
 
 <p>We may provide a verification service to verify the identity of a forum user in accordance with our verification policy <a href="{{.LinkToVerificationPolicy}}">{{.LinkToVerificationPolicy}}</a>. You may use our verification service to verify your identity to other users of the forum.</p>
 
-<p>A forum user verification is not: (i) an endorsement by us of the forum user or the forum user’s statements and representations; (ii) any guarantee or promise in relation to fitness, quality or description of any goods or services the forum user sells or promotes; or (iii) a representation by us that the forum user is trustworthy, reliable or honest.</p>
+<p>A forum user verification is not: (i) an endorsement by us of the forum user or the forum user's statements and representations; (ii) any guarantee or promise in relation to fitness, quality or description of any goods or services the forum user sells or promotes; or (iii) a representation by us that the forum user is trustworthy, reliable or honest.</p>
 
 <h3>Fees</h3>
 

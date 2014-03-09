@@ -12,7 +12,7 @@
 
 <h3>What are cookies?</h3>
 
-<p>Cookies are text files, containing small amounts of information, which are downloaded to your browsing device (such as a computer or smartphone) when you visit a website. Cookies can be recognised by the website that downloaded them — or other websites that use the same cookies.  This helps websites know if the browsing device has visited them before.</p>
+<p>Cookies are text files, containing small amounts of information, which are downloaded to your browsing device (such as a computer or smartphone) when you visit a website. Cookies can be recognised by the website that downloaded them - or other websites that use the same cookies.  This helps websites know if the browsing device has visited them before.</p>
 
 <h3>What are cookies used for?</h3>
 
@@ -29,7 +29,7 @@
 	</tr>
 	<tr>
 		<th>Analytics Cookies</th>
-		<td>These cookies collect information about how people are using our forum, for example which pages are visited the most often, how people are moving from one link to another and if they get error messages from certain pages. These cookies don't gather information that identifies you.  All information these cookies collect is grouped together with information from other people’s use of our forum on an anonymous basis. Overall, these cookies provide us with analytical information about how our forum is performing and how we can improve it.</td>
+		<td>These cookies collect information about how people are using our forum, for example which pages are visited the most often, how people are moving from one link to another and if they get error messages from certain pages. These cookies don't gather information that identifies you.  All information these cookies collect is grouped together with information from other people's use of our forum on an anonymous basis. Overall, these cookies provide us with analytical information about how our forum is performing and how we can improve it.</td>
 	</tr>
 	<tr>
 		<th>Functionality Cookies</th>

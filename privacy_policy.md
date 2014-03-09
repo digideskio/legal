@@ -36,13 +36,13 @@
 
 <p>We collect information about how you use the forum such as the pages and links you access, the time you access the forum and duration you are on it, the website you come to the forum from or go to after leaving the forum and selections and choices you make when using the forum.</p>
 
-<p>We also collect information about the computer or other electronic devices you use to connect to the forum such as details about the type of device (which can include unique device identifying numbers), its operating system, browser and applications connected to the forum through the device, your Internet service provider or mobile network, your IP address and your device’s telephone number (if it has one).</p>
+<p>We also collect information about the computer or other electronic devices you use to connect to the forum such as details about the type of device (which can include unique device identifying numbers), its operating system, browser and applications connected to the forum through the device, your Internet service provider or mobile network, your IP address and your device's telephone number (if it has one).</p>
 
 <p>Typically, the information we collect about how you use or connect to the forum is associated with your device and not you as a named individual. However, if you are logged into a registered account this information may also be associated with your account.</p>
 
 <p><strong>Information about your location</strong></p>
 
-<p>Other than information you choose to provide to us, we do not collect information about your precise location. Your device’s IP address may help us determine an approximate location but this will be no more precise than the city, state or country you are using your device in.</p>
+<p>Other than information you choose to provide to us, we do not collect information about your precise location. Your device's IP address may help us determine an approximate location but this will be no more precise than the city, state or country you are using your device in.</p>
 
 <p><strong>Information provided by other users</strong></p>
 
@@ -137,7 +137,7 @@
 
 <p>Our forum is only available to persons aged 13 or over.</p>
 
-<p>The forum is not directed to persons under 13 and we do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information, without your consent, then please contact us using the details below so that we can take steps to remove such information and terminate the child’s account.</p>
+<p>The forum is not directed to persons under 13 and we do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information, without your consent, then please contact us using the details below so that we can take steps to remove such information and terminate the child's account.</p>
 
 <h3>Changes to this policy</h3>
 
